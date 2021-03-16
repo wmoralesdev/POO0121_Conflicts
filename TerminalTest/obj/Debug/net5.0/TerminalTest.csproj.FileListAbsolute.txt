@@ -1,0 +1,16 @@
+E:\Documentos\Workspaces\POO\Terminal\TerminalTest\bin\Debug\net5.0\TerminalTest.exe
+E:\Documentos\Workspaces\POO\Terminal\TerminalTest\bin\Debug\net5.0\TerminalTest.deps.json
+E:\Documentos\Workspaces\POO\Terminal\TerminalTest\bin\Debug\net5.0\TerminalTest.runtimeconfig.json
+E:\Documentos\Workspaces\POO\Terminal\TerminalTest\bin\Debug\net5.0\TerminalTest.runtimeconfig.dev.json
+E:\Documentos\Workspaces\POO\Terminal\TerminalTest\bin\Debug\net5.0\TerminalTest.dll
+E:\Documentos\Workspaces\POO\Terminal\TerminalTest\bin\Debug\net5.0\ref\TerminalTest.dll
+E:\Documentos\Workspaces\POO\Terminal\TerminalTest\bin\Debug\net5.0\TerminalTest.pdb
+E:\Documentos\Workspaces\POO\Terminal\TerminalTest\obj\Debug\net5.0\TerminalTest.csprojAssemblyReference.cache
+E:\Documentos\Workspaces\POO\Terminal\TerminalTest\obj\Debug\net5.0\TerminalTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documentos\Workspaces\POO\Terminal\TerminalTest\obj\Debug\net5.0\TerminalTest.AssemblyInfoInputs.cache
+E:\Documentos\Workspaces\POO\Terminal\TerminalTest\obj\Debug\net5.0\TerminalTest.AssemblyInfo.cs
+E:\Documentos\Workspaces\POO\Terminal\TerminalTest\obj\Debug\net5.0\TerminalTest.csproj.CoreCompileInputs.cache
+E:\Documentos\Workspaces\POO\Terminal\TerminalTest\obj\Debug\net5.0\TerminalTest.dll
+E:\Documentos\Workspaces\POO\Terminal\TerminalTest\obj\Debug\net5.0\ref\TerminalTest.dll
+E:\Documentos\Workspaces\POO\Terminal\TerminalTest\obj\Debug\net5.0\TerminalTest.pdb
+E:\Documentos\Workspaces\POO\Terminal\TerminalTest\obj\Debug\net5.0\TerminalTest.genruntimeconfig.cache
